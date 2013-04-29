@@ -1,2 +1,11 @@
 stm_avicena
 ===========
+db
+docs
+Excel
+img
+js
+Pager
+securimage
+tpls
+xajax
